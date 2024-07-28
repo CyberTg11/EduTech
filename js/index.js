@@ -1,13 +1,3 @@
-const login = document.querySelector(".btn")
-login.addEventListener('click',() => {
-    window.location.href = 'http://127.0.0.1:5500/login.html#'
-})
-
-// const cart = document.getElementById("cart")
-// cart.addEventListener('click',() => {
-//     window.location.href = 'http://127.0.0.1:5500/cart.html#'
-// })
-
 'use strict';
 
 
